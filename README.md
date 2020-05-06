@@ -1,0 +1,1 @@
+This is an introductory web development learning scenario, attempting to re-create the seemingly simple google homepage
